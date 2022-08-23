@@ -1,10 +1,10 @@
 #NAME IPTV Wilmaa
 #SERVICE 1:64:0:0:0:0:0:0:0:0::WILMAA -Nicht für Aufnahmen-
 #DESCRIPTION WILMAA -Nicht für Aufnahmen-
-#SERVICE 4097:0:1:283D:3FB:1:C00000:0:0:0:https%3a//streams.wilmaa.com/m3u8/get?channelId=ard_hd:Das Erste HD
-#DESCRIPTION Das Erste HD
-#SERVICE 4097:0:1:2B66:3F3:1:C00000:0:0:0:https%3a//streams.wilmaa.com/m3u8/get?channelId=zdf_hd:ZDF HD
-#DESCRIPTION ZDF HD
+SERVICE 4097:0:1:283D:3FB:1:C00000:0:0:0:https%3a//streams.wilmaa.com/m3u8/get?channelId=ard_hd:Das Erste HD
+DESCRIPTION Das Erste HD
+SERVICE 4097:0:1:2B66:3F3:1:C00000:0:0:0:https%3a//streams.wilmaa.com/m3u8/get?channelId=zdf_hd:ZDF HD
+DESCRIPTION ZDF HD
 #SERVICE 4097:0:1:2857:401:1:C00000:0:0:0:https%3a//streams.wilmaa.com/m3u8/get?channelId=ndr_hd:NDR Niedersachsen HD
 #DESCRIPTION NDR Niedersachsen HD
 #SERVICE 4097:0:1:288B:40F:1:C00000:0:0:0:https%3a//streams.wilmaa.com/m3u8/get?channelId=radio-bremen-tv:Radio Bremen TV HD
@@ -75,8 +75,8 @@
 #DESCRIPTION ORF 2 HD
 #SERVICE 4097:0:0:33FC:3ED:1:C00000:0:0:0:https%3a//streams.wilmaa.com/m3u8/get?channelId=orf3:ORF III HD
 #DESCRIPTION ORF III HD
-#SERVICE 4097:0:1:4331:300C:13E:820000:0:0:0:https%3a//streams.wilmaa.com/m3u8/get?channelId=sf_1_hd:SRF 1 HD
-#DESCRIPTION SRF 1 HD
+SERVICE 4097:0:1:4331:300C:13E:820000:0:0:0:https%3a//streams.wilmaa.com/m3u8/get?channelId=sf_1_hd:SRF 1 HD
+DESCRIPTION SRF 1 HD
 #SERVICE 4097:0:1:4332:300C:13E:820000:0:0:0:https%3a//streams.wilmaa.com/m3u8/get?channelId=sf_2_hd:SRF 2 HD
 #DESCRIPTION SRF 2 HD
 #SERVICE 4097:0:19:36E5:6A4:13E:820000:0:0:0:https%3a//streams.wilmaa.com/m3u8/get?channelId=sf_info_hd:SRF info HD
