@@ -1,6 +1,4 @@
 #EXTM3U url-tvg="#EXTM3U url-tvg="https://xmltv.ch/xmltv/xmltv-complet.xml""
-#
-#EXTREM:german
 #EXTINF:-1 tvg-id="TeleclubZoom.ch" tvg-name="Teleclub Zoom CH" tvg-logo="http://static.epg.best/ch/TeleclubZoom.ch.png" tvg-chno="0" channel-id="317",blue Zoom D
 rtp://239.186.68.155:10000
 #EXTINF:-1 tvg-id="SRF1.ch" tvg-name="SF 1 CH" tvg-logo="http://static.epg.best/ch/SRF1.ch.png" tvg-chno="1" channel-id="282",SRF1 HD
@@ -151,14 +149,12 @@ rtp://239.186.70.10:10000
 rtp://239.186.68.25:10000
 #EXTINF:-1 tvg-id="TLC.de" tvg-name="TLC DE" tvg-logo="http://static.epg.best/de/TLC.de.png" tvg-chno="75" channel-id="319",TLC
 rtp://239.186.70.67:10000
-#EXTREM:polit
 #EXTINF:-1 tvg-id="SessionNationalrat.ch" tvg-name="Session Nationalrat CH" tvg-logo="http://static.epg.best/ch/SessionNationalrat.ch.png" tvg-chno="100" channel-id="272",Session Nationalrat
 rtp://239.186.70.127:10000
 #EXTINF:-1 tvg-id="SessionStaendenrat.ch" tvg-name="SessionStaendenrat CH" tvg-logo="http://static.epg.best/ch/SessionStaendenrat.ch.png" tvg-chno="101" channel-id="274",Session Ständerat
 rtp://239.186.70.128:10000
 #EXTINF:-1 tvg-id="Pressekonferenz.ch" tvg-name="Pressekonferenz CH" tvg-logo="http://static.epg.best/ch/Pressekonferenz.ch.png" tvg-chno="102" channel-id="275",Pressekonferenz des Bundesrates HD
 rtp://239.186.79.27:10000
-#EXTREM:regional
 #EXTINF:-1 tvg-id="Tele1.ch" tvg-name="Tele1 CH" tvg-logo="http://static.epg.best/ch/Tele1.ch.png" tvg-chno="150" channel-id="298",Tele1 HD
 rtp://239.186.68.176:10000
 #EXTINF:-1 tvg-id="Tele5.de" tvg-name="Tele 5 DE" tvg-logo="http://static.epg.best/de/Tele5.de.png" tvg-chno="151" channel-id="299",TELE5
@@ -197,18 +193,14 @@ rtp://239.186.70.4:10000
 rtp://239.186.70.65:10000
 #EXTINF:-1 tvg-id="SHf.ch" tvg-name="SHf CH" tvg-logo="http://static.epg.best/ch/SHf.ch.png" tvg-chno="168" channel-id="277",SHf - Schaffhauser Fernsehen
 rtp://239.186.68.139:10000
-#EXTREM:french
 #EXTINF:-1 tvg-id="C202.api.telerama.fr" tvg-name="RTS Un" tvg-logo="http://static.epg.best/ch/RTS1.ch.png" tvg-chno="180" channel-id="1",RTS un
 rtp://239.186.68.3:10000
 #EXTINF:-1 tvg-id="C183.api.telerama.fr" tvg-name="RTS Deux" tvg-logo="http://static.epg.best/ch/RTS2.ch.png" tvg-chno="181" channel-id="2",RTS deux
 rtp://239.186.68.4:10000
-#EXTREM:italian
 #EXTINF:-1 tvg-id="RSILA1.ch" tvg-name="RSI LA1 CH" tvg-logo="http://static.epg.best/ch/RSILA1.ch.png" tvg-chno="190" channel-id="403",RSI La 1
 rtp://239.186.68.5:10000
 #EXTINF:-1 tvg-id="RSILA2.ch" tvg-name="RSI LA2 CH" tvg-logo="http://static.epg.best/ch/RSILA2.ch.png" tvg-chno="191" channel-id="405",RSI LA 2
 rtp://239.186.68.6:10000
-#
-#RADIO
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Logo_of_Radio_SRF_1.svg/1200px-Logo_of_Radio_SRF_1.svg.png" group-title="radio" radio="true",SRF 1
 http://stream.srg-ssr.ch/m/regi_zentr/mp3_128
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Radio_SRF_2_Kultur.svg/1200px-Radio_SRF_2_Kultur.svg.png" group-title="radio" radio="true",SRF 2
